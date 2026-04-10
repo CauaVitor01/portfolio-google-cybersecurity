@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório de projetos e estudos. Aqui documento minha jornada na transição para a área de Segurança Cibernética, com foco em análise de vulnerabilidades, resposta a incidentes e automação.
 
 ##  Sobre Mim
-Sou um entusiasta de tecnologia em transição de carreira,cursei **Certificado Profissional de Segurança Cibernética do Google**. Tenho foco em proteger dados e sistemas, transformando a "terra sem lei" da internet em um ambiente mais seguro para todos.
+Sou um entusiasta de tecnologia,cursei **Certificado Profissional de Segurança Cibernética do Google**. Tenho foco em proteger dados e sistemas, transformando a "terra sem lei" da internet em um ambiente mais seguro para todos.
 
 ---
 
